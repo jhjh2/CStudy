@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DataStructure", "DataStruct
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Algorithm", "Algorithm\Algorithm.vcxproj", "{F89A3CCE-6491-4B3D-88EE-5328DB8200A4}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C++ Language", "C++ Language\C++ Language.vcxproj", "{F863F126-72F6-444C-B3FB-0973C99EF63A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{F89A3CCE-6491-4B3D-88EE-5328DB8200A4}.Release|x64.Build.0 = Release|x64
 		{F89A3CCE-6491-4B3D-88EE-5328DB8200A4}.Release|x86.ActiveCfg = Release|Win32
 		{F89A3CCE-6491-4B3D-88EE-5328DB8200A4}.Release|x86.Build.0 = Release|Win32
+		{F863F126-72F6-444C-B3FB-0973C99EF63A}.Debug|x64.ActiveCfg = Debug|x64
+		{F863F126-72F6-444C-B3FB-0973C99EF63A}.Debug|x64.Build.0 = Debug|x64
+		{F863F126-72F6-444C-B3FB-0973C99EF63A}.Debug|x86.ActiveCfg = Debug|Win32
+		{F863F126-72F6-444C-B3FB-0973C99EF63A}.Debug|x86.Build.0 = Debug|Win32
+		{F863F126-72F6-444C-B3FB-0973C99EF63A}.Release|x64.ActiveCfg = Release|x64
+		{F863F126-72F6-444C-B3FB-0973C99EF63A}.Release|x64.Build.0 = Release|x64
+		{F863F126-72F6-444C-B3FB-0973C99EF63A}.Release|x86.ActiveCfg = Release|Win32
+		{F863F126-72F6-444C-B3FB-0973C99EF63A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
