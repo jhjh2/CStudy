@@ -33,12 +33,21 @@
     <ClCompile Include="variables_func.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="malloc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="malloc_arr.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="func.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="common.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="arr.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
